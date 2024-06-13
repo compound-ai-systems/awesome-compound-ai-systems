@@ -18,7 +18,7 @@ _reached the same accuracy as GPT-4 at a cost reduction of 59-98%_
 by [@lchen001](https://github.com/lchen001) et al.  
 _Components:_ many different LLMs
 
-* Add more here!
+* Help us by adding more entries here!
 
 ## 🏭 Products / Real-world Systems
 🟢 _denotes publicly available product_  
@@ -42,6 +42,8 @@ _An in-development product at Replit aimed at automatically suggesting patches f
 📢 https://blog.replit.com/code-repair  
 by [@replit](https://github.com/replit)  
 _Components:_ LLM with a few-shot prompt pipeline (DSPy); supervised fine-tuning 
+
+* Help us by adding more entries here!
 
 <br />
 
