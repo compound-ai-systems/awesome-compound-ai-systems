@@ -23,9 +23,20 @@ _The paid ChatGPT offering by OpenAI which supports external web browsing, and o
 by [@openai](https://github.com/openai)  
 _Components:_ LLM; web Browser plugin for retrieving timely content; code interpreter plugin for executing python; DALL-E image generator 
 
+* **Microsoft Copilot (formerly Bing Chat)** - 🟢  
+_The ad-supported/paid chatbot offering from Microsoft which supports external web browsing, image generation, and more_  
+🔗 https://www.microsoft.com/en-us/store/b/copilotpro  
+by [@microsoft](https://github.com/microsoft)  
+_Components:_ LLM; web Browser plugin for retrieving timely content; code interpreter plugin for executing python; image generator 
 
+* **Replit Code Repair** - 🟡  
+_An in-development product at Replit aimed at automatically suggesting patches for codebases based on detected language-server protocol (LSP) error events_  
+📢 https://blog.replit.com/code-repair  
+by [@replit](https://github.com/replit)  
+_Components:_ LLM with a few-shot prompt pipeline (DSPy); supervised fine-tuning 
 
----
+<br />
+
 
 # Working list of known Compound AI Systems
 _We are migrating these systems to the top portion of the document! ⌛_
