@@ -18,6 +18,14 @@ _reached the same accuracy as GPT-4 at a cost reduction of 59-98%_
 by [@lchen001](https://github.com/lchen001) et al.  
 _Components:_ many different LLMs
 
+* **[AlphaGeometry](https://github.com/stanford-futuredata/FrugalGPT), iteratively suggests constructions in a geometry problem via LLM and checks deduced facts produced by sympolic engine** - 🏆  
+_scores between silver and gold International Math Olympiad medalists_  
+📢 https://x.com/GoogleDeepMind/status/1747651817461125352  
+📰 https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/  
+📖 https://www.nature.com/articles/s41586-023-06747-5  
+by [@thtrieu](https://github.com/thtrieu) et al.  
+_Components:_ fine-tuned LLM; symbolic math engine
+
 * Help us by adding more entries here!
 
 ## 🏭 Products / Real-world Systems
