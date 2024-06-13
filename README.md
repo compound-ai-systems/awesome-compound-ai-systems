@@ -117,4 +117,5 @@ _We are migrating these systems to the top portion of the document! ⌛_
 * Are More LLM Calls All You Need
 * Gemini
 * [Replit Code Repair](https://blog.replit.com/code-repair)
-* InferCept
+* InferCept ✅
+* AlphaGeometry ✅
