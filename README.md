@@ -96,7 +96,7 @@ _We are migrating these systems to the top portion of the document! ⌛_
 * DIN-SQL
 * Reflexion
 * DSPy
-* FrugalGPT
+* FrugalGPT ✅
 * AlphaCode 2
 
 ## 2024
@@ -105,7 +105,7 @@ _We are migrating these systems to the top portion of the document! ⌛_
 * DSPy Assertions
 * STORM
 * HaizeLab Red Teaming with DSPy
-* WangLab at MEDIQA with DSPy
+* WangLab at MEDIQA with DSPy ✅
 * Are More LLM Calls All You Need
 * Gemini
 * [Replit Code Repair](https://blog.replit.com/code-repair)
