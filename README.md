@@ -14,7 +14,7 @@ by [@augustintoma](https://github.com/augustintoma) et al.
 _reached the same accuracy as GPT-4 at a cost reduction of 59-98%_  
 📢 https://x.com/james_y_zou/status/1656285537185980417  
 📰 https://portkey.ai/blog/implementing-frugalgpt-smarter-llm-usage-for-lower-costs/  
-📖 https://arxiv.org/pdf/2305.05176.pdf
+📖 https://arxiv.org/pdf/2305.05176.pdf  
 by [@lchen001](https://github.com/lchen001) et al.  
 _Components:_ many different LLMs
 
