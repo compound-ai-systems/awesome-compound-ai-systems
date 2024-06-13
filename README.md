@@ -26,6 +26,14 @@ _scores between silver and gold International Math Olympiad medalists_
 by [@thtrieu](https://github.com/thtrieu) et al.  
 _Components:_ fine-tuned LLM; symbolic math engine
 
+* **[InferCept](https://github.com/WukLab/InferCept), a high-throughput serving system for augmented LLMs** - 🏆  
+_serves 1.6x-2x more requests than vLLM at same low latency_  
+📢 https://x.com/yiying__zhang/status/1797495152979898835  
+📰 https://mlsys.wuklab.io/posts/infercept/  
+📖 https://arxiv.org/pdf/2402.01869  
+by [@reyna-abhyankar](https://github.com/reyna-abhyankar) et al.  
+_Components:_ augmented LLM serving
+
 * Help us by adding more entries here!
 
 ## 🏭 Products / Real-world Systems
@@ -109,3 +117,4 @@ _We are migrating these systems to the top portion of the document! ⌛_
 * Are More LLM Calls All You Need
 * Gemini
 * [Replit Code Repair](https://blog.replit.com/code-repair)
+* InferCept
