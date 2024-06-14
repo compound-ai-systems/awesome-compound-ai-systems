@@ -19,13 +19,10 @@ by [@lchen001](https://github.com/lchen001) et al.
 _Components:_ many different LLMs
 
 * **[Are More LLM Calls All You Need](https://arxiv.org/abs/2403.02419), discerning scaling dynamics governing how many calls to make in ensemble-based Compound AI Systems** - 🏆
-_discovered non-monotonic dynamics in quality improvement as you scale the number of ensemble members (or calls). Attributes this to **query difficulty** variance_
-
-📢 [https://x.com/ChenLingjiao/status/1798849142288245071](https://x.com/ChenLingjiao/status/1798849142288245071)
-
-📖 [https://arxiv.org/pdf/2305.05176.pdf](https://arxiv.org/abs/2403.02419) 
-
-_Components:_ many calls to an LLM, where the number of calls (and the mix of LLMs) is parameterizable
+  _discovered non-monotonic dynamics in quality improvement as you scale the number of ensemble members (or calls). Attributes this to **query difficulty** variance_
+  📢 [https://x.com/ChenLingjiao/status/1798849142288245071](https://x.com/ChenLingjiao/status/1798849142288245071)
+  📖 [https://arxiv.org/pdf/2305.05176.pdf](https://arxiv.org/abs/2403.02419)
+  _Components:_ many calls to an LLM, where the number of calls (and the mix of LLMs) is parameterizable
 
 * **[AlphaGeometry](https://github.com/google-deepmind/alphageometry), iteratively suggests constructions in a geometry problem via LLM and checks deduced facts produced by symbolic engine** - 🏆  
 _scores between silver and gold International Math Olympiad medalists_  
