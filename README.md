@@ -6,7 +6,7 @@
 🏆 _denotes systems that improve the state-of-the-art_
 
 * **[WangLab](https://www.wanglab.ai/)'s winning entries to the 2024 MEDIQA Clinical NLP competition** - 🏆  
-_outperforms next runner up by over 19%_  
+_outperforms next runner-up by over 19%_  
 📢 https://x.com/lateinteraction/status/1783990747257360779  
 by [@augustintoma](https://github.com/augustintoma) et al.  
 
@@ -18,7 +18,13 @@ _reached the same accuracy as GPT-4 at a cost reduction of 59-98%_
 by [@lchen001](https://github.com/lchen001) et al.  
 _Components:_ many different LLMs
 
-* **[AlphaGeometry](https://github.com/stanford-futuredata/FrugalGPT), iteratively suggests constructions in a geometry problem via LLM and checks deduced facts produced by sympolic engine** - 🏆  
+* **[Are More LLM Calls All You Need](https://arxiv.org/abs/2403.02419), discerning scaling dynamics governing how many calls to make in ensemble-based Compound AI Systems** - 🏆
+_discovered interesting non-monotonic dynamics in quality improvement as you scale the number of ensemble members (or calls). Attributes this to **query difficulty** variance_
+📢 [https://x.com/ChenLingjiao/status/1798849142288245071](https://x.com/ChenLingjiao/status/1798849142288245071)
+📖 [https://arxiv.org/pdf/2305.05176.pdf](https://arxiv.org/abs/2403.02419)  
+_Components:_ many calls to an LLM, where the number of calls (and the mix of LLMs) is parameterizable
+
+* **[AlphaGeometry](https://github.com/google-deepmind/alphageometry), iteratively suggests constructions in a geometry problem via LLM and checks deduced facts produced by symbolic engine** - 🏆  
 _scores between silver and gold International Math Olympiad medalists_  
 📢 https://x.com/GoogleDeepMind/status/1747651817461125352  
 📰 https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/  
@@ -27,7 +33,7 @@ by [@thtrieu](https://github.com/thtrieu) et al.
 _Components:_ fine-tuned LLM; symbolic math engine
 
 * **[InferCept](https://github.com/WukLab/InferCept), a high-throughput serving system for augmented LLMs** - 🏆  
-_serves 1.6x-2x more requests than vLLM at same low latency_  
+_serves 1.6x-2x more requests than vLLM at the same low latency_  
 📢 https://x.com/yiying__zhang/status/1797495152979898835  
 📰 https://mlsys.wuklab.io/posts/infercept/  
 📖 https://arxiv.org/pdf/2402.01869  
@@ -114,7 +120,6 @@ _We are migrating these systems to the top portion of the document! ⌛_
 * STORM
 * HaizeLab Red Teaming with DSPy
 * WangLab at MEDIQA with DSPy ✅
-* Are More LLM Calls All You Need
 * Gemini
 * [Replit Code Repair](https://blog.replit.com/code-repair)
 * InferCept ✅
